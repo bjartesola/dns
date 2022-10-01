@@ -11,24 +11,24 @@
 					<string>HTTPS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>2606:4700:4700::1112</string>
-						<string>2606:4700:4700::1002</string>
-						<string>1.1.1.2</string>
-						<string>1.0.0.2</string>
+						<string>2606:4700:4700::1113</string>
+						<string>2606:4700:4700::1003</string>
+						<string>1.1.1.3</string>
+						<string>1.0.0.3</string>
 					</array>
 					<key>ServerURL</key>
-					<string>https://security.cloudflare-dns.com/dns-query</string>
+					<string>https://family.cloudflare-dns.com/dns-query</string>
 				</dict>
 				<key>PayloadDescription</key>
-				<string>Configures device to use Cloudflare encrypted DNS over HTTPS with malware blocked</string>
+				<string>Configures device to use Cloudflare encrypted DNS over HTTPS with malware and adult content blocked</string>
 				<key>PayloadDisplayName</key>
-				<string>Cloudflare HTTPS - malware</string>
+				<string>Cloudflare HTTPS - family</string>
 				<key>PayloadIdentifier</key>
-				<string>dev.bjarte.dns.14413c2a-91d4-4d8f-a7d2-dcc5e58f1044</string>
+				<string>dev.bjarte.dns.a1afd13a-91ce-4abe-92db-345ced2c3865</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadUUID</key>
-				<string>14413c2a-91d4-4d8f-a7d2-dcc5e58f1044</string>
+				<string>a1afd13a-91ce-4abe-92db-345ced2c3865</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ProhibitDisablement</key>
@@ -41,24 +41,24 @@
 					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
-						<string>2606:4700:4700::1112</string>
-						<string>2606:4700:4700::1002</string>
-						<string>1.1.1.2</string>
-						<string>1.0.0.2</string>
+						<string>2606:4700:4700::1113</string>
+						<string>2606:4700:4700::1003</string>
+						<string>1.1.1.3</string>
+						<string>1.0.0.3</string>
 					</array>
 					<key>ServerName</key>
-					<string>security.cloudflare-dns.com</string>
+					<string>family.cloudflare-dns.com</string>
 				</dict>
 				<key>PayloadDescription</key>
-				<string>Configures device to use Cloudflare encrypted DNS over TLS with malware blocked</string>
+				<string>Configures device to use Cloudflare encrypted DNS over TLS with malware and adult content blocked</string>
 				<key>PayloadDisplayName</key>
-				<string>Cloudflare TLS - malware</string>
+				<string>Cloudflare TLS - family</string>
 				<key>PayloadIdentifier</key>
-				<string>dev.bjarte.dns.96413d2e-75a3-4b07-8172-8ea68806aa79</string>
+				<string>dev.bjarte.dns.3df78690-8ba6-4bf5-8414-48e1ec5f55f8</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadUUID</key>
-				<string>96413d2e-75a3-4b07-8172-8ea68806aa79</string>
+				<string>3df78690-8ba6-4bf5-8414-48e1ec5f55f8</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ProhibitDisablement</key>
@@ -66,17 +66,17 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>Configures device to use Cloudflare encrypted DNS with malware blocked</string>
+		<string>Configures device to use Cloudflare encrypted DNS with malware and adult content blocked</string>
 		<key>PayloadDisplayName</key>
-		<string>Cloudflare DNS - malware</string>
+		<string>Cloudflare DNS - family</string>
 		<key>PayloadIdentifier</key>
-		<string>dev.bjarte.dns.680f1237-0f70-4684-94d3-2410e60924c1</string>
+		<string>dev.bjarte.dns.5e4160d0-67f3-4dda-921e-3dfd479db1e6</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false/>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>680f1237-0f70-4684-94d3-2410e60924c1</string>
+		<string>5e4160d0-67f3-4dda-921e-3dfd479db1e6</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
