@@ -4,9 +4,9 @@
 
 | Profile | Description |
 | - | - |
-| [Cloudflare](https://github.com/bjartesola/dns/raw/master/cloudflare-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS|
-| [Cloudflare - security](https://github.com/bjartesola/dns/raw/master/cloudflare_security-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS with malware blocked |
-| [Cloudflare - family](https://github.com/bjartesola/dns/raw/master/cloudflare_family-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS with malware and adult content blocked |
+| [Cloudflare](https://bjartesola.github.io/dns/cloudflare-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS|
+| [Cloudflare - security](https://bjartesola.github.io/dns/cloudflare_security-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS with malware blocked |
+| [Cloudflare - family](https://bjartesola.github.io/dns/cloudflare_family-signed.mobileconfig) | Configures device to use Cloudflare encrypted DNS with malware and adult content blocked |
 
 ### Switching between **DNS over HTTPS** and **DNS over TLS**
 
